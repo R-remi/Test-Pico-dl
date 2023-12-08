@@ -1,4 +1,4 @@
-$MyWallpaper="C:\Users\remr0\Desktop\wallpaperflare.com_wallpaper.jpg"
+$MyWallpaper="C:\Users\Public\IMG_3414.png"
 $code = @' 
 using System.Runtime.InteropServices; 
 namespace Win32{ 
